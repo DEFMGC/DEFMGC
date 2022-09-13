@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEFMGC
 - 👀 I’m interested in Football
 - 🌱 I’m currently learning to develop
-- 📫 How to reach me -> "gerlachmelvin@web.de"
+- 📫 How to reach me -> [-nowhere-]
 
 <!---
 DEFMGC/DEFMGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
